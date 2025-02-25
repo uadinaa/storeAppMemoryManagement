@@ -1,0 +1,96 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Dinka",
+      "email": "ne_pishi_mne@gmail.com",
+      "phone": "+7 702 56 78",
+      "image" : " https://i.pinimg.com/736x/21/f7/ef/21f7efe2ca665baff1cebb4b196d550b.jpg ",
+      "posts": [
+        {
+          "id": "101",
+          "authorId": "1",
+          "authorInfo": "Alibek +7 098 76 54",
+          "content": "Bunker game, used couple times, in good condition",
+          "category": "games",
+          "price": 30,
+          "image" : "https://static.next2u.ru/upload/cover/642-642/54/77/51/91/1a/9b/c1/b0/8d/e8/89/ef/88/46/86/a6.jpeg"
+        },
+        {
+          "id": "102",
+          "authorId": "1",
+          "authorInfo": "Olzhas +7 234 56 78",
+          "content": "Vintage Book Collection",
+          "category": "books",
+          "price": 50,
+          "image" : "https://apollo.olx.in/v1/files/t7of0qnfgca6-IN/image;s=360x0"
+        },
+        {
+          "id": "103",
+          "authorId": "1",
+          "authorInfo": "Serik +7 987 65 43",
+          "content": "Alexander Julian × Designer × Leather Jacket Vintage, size M",
+          "category": "clothing",
+          "price": 86,
+          "image" : "https://media-assets.grailed.com/prd/listing/temp/0fa87a46b9b84722a1ea6cdcbc41d470"
+        },
+        {
+          "id": "104",
+          "authorId": "1",
+          "authorInfo": "Klara +7 701 12 34",
+          "content": "three commanders  author is Erich Maria Remarque, i just started reading, barely touched",
+          "category": "clothing",
+          "price": 86,
+          "image": " https://m.media-amazon.com/images/I/41xhSxAQMwL._AC_UF1000,1000_QL80_.jpg "
+        }
+      ],
+      "savedPosts": ["201", "202"]
+    },
+    {
+      "id": "2",
+      "name": "Klara",
+      "email": "klara@example.com",
+      "phone": "+7 701 12 34",
+      "image" : " https://www.thesprucepets.com/thmb/A5Rkkt4HDWLAtUOk4gYybcX02mM=/1080x0/filters:no_upscale():strip_icc()/30078352_448703938920062_6275637137232625664_n-5b0de8c443a1030036f9e15e.jpg ",
+      "posts": [
+        {
+          "id": "201",
+          "authorId": "2",
+          "authorInfo": "Asylbek +7 123 45 67",
+          "content": "iPhone 13, great condition",
+          "category": "electronics",
+          "price": 700,
+          "image" : "https://www.stuff.tv/wp-content/uploads/sites/2/2021/10/img_5864.jpg?w=1080"
+        },
+        {
+          "id": "202",
+          "authorId": "2",
+          "authorInfo": "Kaisar +7 123 67 89",
+          "content": "Printer",
+          "category": "electronics",
+          "price": 200,
+          "image" : "
+        },
+        {
+          "id": "204",
+          "authorId": "2",
+          "authorInfo": "Sultan +7 678 90 12 34",
+          "content": "Chess Board with Premium Pieces",
+          "category": "games",
+          "price": 60,
+          "image" : "
+        },
+        {
+          "id": "205",
+          "authorId": "2",
+          "authorInfo": "Aray +7 567 89 01 23",
+          "content": "Board Game Set: Monopoly, Scrabble, Risk",
+          "category": "games",
+          "price": 75,
+          "image" : "
+        }
+      ],
+      "savedPosts": ["101", "102"]
+    }
+  ]
+}
